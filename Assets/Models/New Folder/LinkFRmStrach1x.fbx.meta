@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 4db697704267bef4fae508e1a2fdf7cf
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -3054358662781226053
+    second: Light|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 8585656295446016797
+    second: Light|Armature|mixamo.com|Layer0
+  - first:
+      74: -79152612147683969
+    second: Light|EmptyAction
+  - first:
+      74: 7363853197206692948
+    second: rdmobj12|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -2313793730853874122
+    second: rdmobj12|Armature|mixamo.com|Layer0
+  - first:
+      74: -6605383466813072410
+    second: rdmobj12|EmptyAction
+  - first:
+      74: -4149736798200429600
+    second: rdmobj08|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -4600723183113106915
+    second: rdmobj08|Armature|mixamo.com|Layer0
+  - first:
+      74: -3149107252913866622
+    second: rdmobj08|EmptyAction
+  - first:
+      74: -5761473665576473474
+    second: rdmobj19|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 4419515703371061452
+    second: rdmobj19|Armature|mixamo.com|Layer0
+  - first:
+      74: 5858349467466363650
+    second: rdmobj19|EmptyAction
+  - first:
+      74: 2373882324486645784
+    second: rdmobj05|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -4841018242495709675
+    second: rdmobj05|Armature|mixamo.com|Layer0
+  - first:
+      74: 6223568895754763510
+    second: rdmobj05|EmptyAction
+  - first:
+      74: -2416854396674860236
+    second: rdmobj04|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 2058398296101982143
+    second: rdmobj04|Armature|mixamo.com|Layer0
+  - first:
+      74: 3512290499824878160
+    second: rdmobj04|EmptyAction
+  - first:
+      74: -4026048475117685005
+    second: rdmobj02|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 7088845528975919860
+    second: rdmobj02|Armature|mixamo.com|Layer0
+  - first:
+      74: 637949711572104240
+    second: rdmobj02|EmptyAction
+  - first:
+      74: 3650931942693553114
+    second: rdmobj01|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 1230355652721842280
+    second: rdmobj01|Armature|mixamo.com|Layer0
+  - first:
+      74: -7962289288696353757
+    second: rdmobj01|EmptyAction
+  - first:
+      74: 929190942289780578
+    second: Cap|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -4970064561054504128
+    second: Cap|Armature|mixamo.com|Layer0
+  - first:
+      74: -4313541094566622166
+    second: Cap|EmptyAction
+  - first:
+      74: -4658798014654180685
+    second: Empty|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -4964830054106211305
+    second: Empty|Armature|mixamo.com|Layer0
+  - first:
+      74: -5572541973309549404
+    second: Empty|EmptyAction
+  - first:
+      74: -6699754428957153295
+    second: InnerTShirt|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 7249087990315389746
+    second: InnerTShirt|Armature|mixamo.com|Layer0
+  - first:
+      74: 640763060068888871
+    second: InnerTShirt|EmptyAction
+  - first:
+      74: 5821218946403055821
+    second: HairLine Front|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 8697808267537057764
+    second: HairLine Front|Armature|mixamo.com|Layer0
+  - first:
+      74: -259359219629041757
+    second: HairLine Front|EmptyAction
+  - first:
+      74: -503557437345591868
+    second: rdmobj00.001|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: -4259298972558768840
+    second: rdmobj00.001|Armature|mixamo.com|Layer0
+  - first:
+      74: 7746166981848683645
+    second: rdmobj00.001|EmptyAction
+  - first:
+      74: 6208908439310072127
+    second: rdmobj00.002|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 9065783912032529189
+    second: rdmobj00.002|Armature|mixamo.com|Layer0
+  - first:
+      74: 5618971534040556
+    second: rdmobj00.002|EmptyAction
+  - first:
+      74: 3015391171744236372
+    second: rdmobj00.003|Armature.002|mixamo.com|Layer0.001
+  - first:
+      74: 4467851933884585648
+    second: rdmobj00.003|Armature|mixamo.com|Layer0
+  - first:
+      74: 2751717598561043070
+    second: rdmobj00.003|EmptyAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 21a3fa5974a8fab449a73aeb12c38d62
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
